@@ -50,10 +50,18 @@ export default defineUserConfig({
     ],
     sidebar: [
       {
-        text: 'TRY!',
-        link: '/categories/try.html',
+        text: 'TRY! N4',
+        link: '/categories/try-n4.html',
         collapsible: false,
         children: [],
+      },
+      {
+        text: 'TRY! N5',
+        link: '/categories/try-n5.html',
+        collapsible: false,
+        children: [
+          '/posts/unit1.md',
+        ],
       },
       {
         text: '杂项',
