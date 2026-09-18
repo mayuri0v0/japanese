@@ -3,6 +3,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { markdownContainerPlugin } from '@vuepress/plugin-markdown-container'
 import { markdownMathPlugin } from '@vuepress/plugin-markdown-math'
 import { defineUserConfig } from 'vuepress'
+import { sidebar } from './sidebar.js'
 
 export default defineUserConfig({
   bundler: viteBundler(),
@@ -48,28 +49,7 @@ export default defineUserConfig({
     navbar: [
       { text: '首页', link: '/' },
     ],
-    sidebar: [
-      {
-        text: 'TRY! N4',
-        link: '/categories/try-n4.html',
-        collapsible: false,
-        children: [],
-      },
-      {
-        text: 'TRY! N5',
-        link: '/categories/try-n5.html',
-        collapsible: false,
-        children: [
-          '/posts/unit1.md',
-        ],
-      },
-      {
-        text: '杂项',
-        link: '/categories/misc.html',
-        collapsible: false,
-        children: [],
-      },
-    ],
+    sidebar,
     repo: 'mayuri0v0/japanese',
     docsBranch: 'main',
     docsDir: 'docs',
