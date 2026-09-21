@@ -19,6 +19,8 @@ export const sidebar = [
     text: '杂项',
     link: '/categories/misc.html',
     collapsible: false,
-    children: [],
+    children: [
+      '/posts/styx-helix.md',
+    ],
   },
 ]
