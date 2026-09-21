@@ -13,7 +13,8 @@ export const sidebar = [
     collapsible: false,
     children: [
       '/posts/n5-unit1.md',
-      '/posts/n5-unit2.md',
+      '/posts/n5-unit2-1.md',
+      '/posts/n5-unit2-2.md',
     ],
   },
   {
