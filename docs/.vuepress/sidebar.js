@@ -12,7 +12,8 @@ export const sidebar = [
     link: '/categories/try-n5.html',
     collapsible: false,
     children: [
-      '/posts/unit1.md',
+      '/posts/n5-unit1.md',
+      '/posts/n5-unit2.md',
     ],
   },
   {

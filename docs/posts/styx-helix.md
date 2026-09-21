@@ -7,7 +7,8 @@ category: 杂项
 # STYX HELIX
 
 > 《Re:ゼロから始める異世界生活》ED1 / MYTH & ROID
->
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV15s411i7zN&autoplay=0&high_quality=1" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -35,7 +36,7 @@ category: 杂项
 >
 > *失准的时钟 印刻的生命*
 
-::: definition 语法点
+::: definition
 111
 :::
 
