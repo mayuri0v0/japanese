@@ -15,6 +15,11 @@ export const sidebar = [
       '/posts/n5-unit1.md',
       '/posts/n5-unit2-1.md',
       '/posts/n5-unit2-2.md',
+      '/posts/n5-unit3-1.md',
+      '/posts/n5-unit3-2.md',
+      '/posts/n5-unit4-1.md',
+      '/posts/n5-unit4-2.md',
+      '/posts/n5-unit5-1.md',
     ],
   },
   {
