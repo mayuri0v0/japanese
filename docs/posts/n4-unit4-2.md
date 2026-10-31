@@ -1,5 +1,5 @@
 ---
-title: TRY! N4 Unit 4(1)
+title: TRY! N4 Unit 4(2)
 date: 2026-10-31
 category: TRY! N4
 ---
@@ -41,3 +41,4 @@ V-た+ところ: 刚完成
 PI+でしょう
 
 なA~~だ~~　N~~だ~~
+
