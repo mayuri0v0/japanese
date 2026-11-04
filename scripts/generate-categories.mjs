@@ -89,7 +89,7 @@ function main() {
     if (cat.description) {
       lines.push(cat.description, '')
     }
-    lines.push(...list.map((p) => `- [${p.title}](../posts/${p.slug}.html)（${p.date}）`), '')
+    lines.push(...list.map((p) => `- [${p.title}](../posts/${p.slug}.html)(${p.date})`), '')
     writeFileSync(join(CATEGORIES_DIR, `${cat.slug}.md`), lines.join('\n'), 'utf8')
   }
 
