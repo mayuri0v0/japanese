@@ -1,10 +1,10 @@
 ---
-title: TRY! N4 Unit 5(1)
+title: TRY! N4 Unit 5(2)
 date: 2026-11-19
 category: TRY! N4
 ---
 
-# TRY! N4 Unit 5(1)
+# TRY! N4 Unit 5(2)
 
 ## ４２　調べておきます
 
